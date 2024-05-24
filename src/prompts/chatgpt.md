@@ -1,10 +1,36 @@
 ## 🧠 Prompts
 
+# Nome do Podcast
 
-ChatGPT：
+Comporte-se como um roteirista de podcast, vamos criar um podcast sobre análise de dados, com foco nas etapas do CRISP-DM. Gostaria que você me enviasse 5 sugestões de nome para o podcast. Precisamos de um título e de um subtítulo.
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+O podcast é voltado para profissionais iniciantes em programação e análise de dados, que estão tentando uma transição de carreira para essas áreas. Outra característica do público alvo é o interesse em RPG e cultura pop no geral.
 
+{REGRAS}
+
+- O nome deve ser curto e de fácil compreensão.
+- O nome precisa fazer alguma alusão à jornada de crescimento e desenvolvimento.
+- O nome deve fazer alguma relação entre a transição de carreira e a chegada de uma nova aventura.
+
+{REGRAS NEGATIVAS}
+
+- O nome do podcast não pode conter palavras longas, como "Crescimento" e "Desenvolvimento".
+- O subtítulo do podcast não pode conter palavras em inglês.
+
+# Roteiro do Podcast
+
+[INTRODUÇÃO]
+
+Olá, bem-vindos ao "Saga dos Dados: Transformando dados em descobertas incríveis"! Eu sou [seu nome], e estou aqui para ajudar você a dar os primeiros passos no fascinante mundo da análise de dados. Se você é um iniciante, este podcast é perfeito para você. Vamos começar?
+
+[DICA 1]
+
+Nossa primeira dica de hoje é: comece com uma pergunta clara. Antes de mergulhar nos dados, é essencial saber o que você quer descobrir. Perguntas bem definidas direcionam sua análise e ajudam a manter o foco. Por exemplo, ao invés de perguntar "Como estão as vendas?", tente ser mais específico: "Como as vendas de janeiro deste ano se comparam com as do ano passado?" Isso torna mais fácil encontrar respostas significativas.
+
+[DICA 2]
+
+Nossa segunda dica é: conheça seus dados. Passe algum tempo explorando os dados que você tem. Verifique as colunas, os tipos de dados e procure por valores ausentes ou anômalos. Isso é chamado de "análise exploratória de dados" e é crucial para entender a base com a qual você está trabalhando. Ferramentas simples como Excel ou Google Sheets são ótimas para essa tarefa inicial. Não precisa ser complicado!
+
+[ENCERRAMENTO]
+
+E assim chegamos ao fim do nosso episódio de hoje do "Saga dos Dados: Transformando dados em descobertas incríveis". Espero que essas dicas tenham sido úteis para você. Lembre-se, a análise de dados é uma jornada e cada passo, por menor que seja, leva você mais perto de grandes descobertas. Obrigado por nos ouvir e até a próxima!
